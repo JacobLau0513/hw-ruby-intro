@@ -4,6 +4,7 @@
 
 def sum arr
   s=m
+  s--l
 end
 
 def max_2_sum arr
